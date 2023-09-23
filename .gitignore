@@ -1,0 +1,9 @@
+*.zip
+*.csv
+*.vscode
+*.txt
+*.CSV
+*.TXT
+*.dat
+._*
+Dataset_supplemental
